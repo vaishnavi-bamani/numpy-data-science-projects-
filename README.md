@@ -119,7 +119,7 @@ Every project is designed to improve analytical thinking, problem-solving skills
 # 📌 Progress
 
 - [x] NumPy Fundamentals
-- [ ] Project 1 – Sales Analytics
+- [x] Project 1 – Sales Analytics
 - [ ] Project 2 – Student Performance
 - [ ] Project 3 – Weather Analysis
 - [ ] Project 4 – Hospital Patient Analytics
