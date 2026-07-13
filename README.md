@@ -39,8 +39,8 @@ The goal is to think like a **Data Scientist**, solve practical problems, and bu
 
 | No. | Project | Status |
 |------|---------|--------|
-| 01 | Sales Analytics | ⏳ Coming Soon |
-| 02 | Student Performance Analysis | ⏳ Coming Soon |
+| 01 | Sales Analytics | Completed |
+| 02 | Student Performance Analysis | Completed |
 | 03 | Weather Data Analysis | ⏳ Coming Soon |
 | 04 | Hospital Patient Analytics | ⏳ Coming Soon |
 | 05 | Customer Shopping Analysis | ⏳ Coming Soon |
@@ -120,7 +120,7 @@ Every project is designed to improve analytical thinking, problem-solving skills
 
 - [x] NumPy Fundamentals
 - [x] Project 1 – Sales Analytics
-- [ ] Project 2 – Student Performance
+- [x] Project 2 – Student Performance
 - [ ] Project 3 – Weather Analysis
 - [ ] Project 4 – Hospital Patient Analytics
 - [ ] Project 5 – Customer Shopping Analysis
