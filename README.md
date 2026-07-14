@@ -41,7 +41,7 @@ The goal is to think like a **Data Scientist**, solve practical problems, and bu
 |------|---------|--------|
 | 01 | Sales Analytics | Completed |
 | 02 | Student Performance Analysis | Completed |
-| 03 | Weather Data Analysis | ⏳ Coming Soon |
+| 03 | Weather Data Analysis | Completed |
 | 04 | Hospital Patient Analytics | ⏳ Coming Soon |
 | 05 | Customer Shopping Analysis | ⏳ Coming Soon |
 | 06 | Stock Market Analysis | ⏳ Coming Soon |
