@@ -44,9 +44,9 @@ The goal is to think like a **Data Scientist**, solve practical problems, and bu
 | 03 | Weather Data Analysis | Completed |
 | 04 | Employee Salary Analysis | Completed |
 | 05 | ECommerce Sales Analysis | Completed |
-| 06 | Stock Market Analysis | ⏳ Coming Soon |
-| 07 | Image Processing with NumPy | ⏳ Coming Soon |
-| 08 | Kaggle Data Analysis Challenge | ⏳ Coming Soon |
+| 06 | Stock Market Analysis | Completed |
+| 07 | Image Processing with NumPy | Completed |
+| 08 | Kaggle Data Analysis Challenge | Completed |
 
 ---
 
@@ -124,9 +124,9 @@ Every project is designed to improve analytical thinking, problem-solving skills
 - [x] Project 3 – Weather Analysis
 - [x] Project 4 – Employee Sales Analysis
 - [x] Project 5 – Ecommerce Sales Analysis
-- [ ] Project 6 – Stock Market Analysis
-- [ ] Project 7 – Image Processing
-- [ ] Project 8 – Kaggle Challenge
+- [x] Project 6 – Stock Market Analysis
+- [x] Project 7 – Image Processing
+- [x] Project 8 – Kaggle Challenge
 
 ---
 
