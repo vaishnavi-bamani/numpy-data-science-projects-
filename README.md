@@ -42,8 +42,8 @@ The goal is to think like a **Data Scientist**, solve practical problems, and bu
 | 01 | Sales Analytics | Completed |
 | 02 | Student Performance Analysis | Completed |
 | 03 | Weather Data Analysis | Completed |
-| 04 | Hospital Patient Analytics | ⏳ Coming Soon |
-| 05 | Customer Shopping Analysis | ⏳ Coming Soon |
+| 04 | Employee Salary Analysis | Completed |
+| 05 | ECommerce Sales Analysis | Completed |
 | 06 | Stock Market Analysis | ⏳ Coming Soon |
 | 07 | Image Processing with NumPy | ⏳ Coming Soon |
 | 08 | Kaggle Data Analysis Challenge | ⏳ Coming Soon |
@@ -99,8 +99,8 @@ numpy-data-science-projects/
 ├── Project-01-Sales-Analytics/
 ├── Project-02-Student-Performance/
 ├── Project-03-Weather-Analysis/
-├── Project-04-Hospital-Analytics/
-├── Project-05-Customer-Shopping/
+├── Project-04-Employee-salary-Analysis/
+├── Project-05-ECommerce-Sales-Analysis/
 ├── Project-06-Stock-Market/
 ├── Project-07-Image-Processing/
 └── Project-08-Kaggle-Challenge/
@@ -122,8 +122,8 @@ Every project is designed to improve analytical thinking, problem-solving skills
 - [x] Project 1 – Sales Analytics
 - [x] Project 2 – Student Performance
 - [x] Project 3 – Weather Analysis
-- [ ] Project 4 – Hospital Patient Analytics
-- [ ] Project 5 – Customer Shopping Analysis
+- [x] Project 4 – Employee Sales Analysis
+- [x] Project 5 – Ecommerce Sales Analysis
 - [ ] Project 6 – Stock Market Analysis
 - [ ] Project 7 – Image Processing
 - [ ] Project 8 – Kaggle Challenge
